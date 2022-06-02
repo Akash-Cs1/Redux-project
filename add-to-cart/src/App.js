@@ -1,8 +1,11 @@
 import "./App.css";
+import Button from "./components/button";
+
 
 function App() {
   return <div className="App">
-    <h1>Hello People</h1>
+    <h1>Hello People monkey</h1>
+    <Button/>
   </div>;
 }
 
